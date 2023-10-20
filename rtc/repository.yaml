@@ -1,0 +1,20 @@
+SingleArUco2:
+  description: 
+  git: https://github.com/rsdlab/SingleArUco2.git
+  hash: 0533ba3126d651f31c160cdab1f5845f241d98b1
+  repo_name: SingleArUco2
+WebCamera2:
+  description: 
+  git: https://github.com/rsdlab/WebCamera2.git
+  hash: 7edb5183f755584c6aaba07b16bd88b2793efb02
+  repo_name: WebCamera2
+mycobot_Transform:
+  description: 
+  git: https://github.com/rsdlab/mycobot_Transform.git
+  hash: 02fb794192a8040fdeb7471dc7ce6fa59d6614ff
+  repo_name: mycobot_Transform
+myCobotAruco:
+  description: 
+  git: https://github.com/rsdlab/mycobotAruco.git
+  hash: 63b1908f6540efb8109bd71cb0a761ad4c34eb8b
+  repo_name: myCobotAruco
